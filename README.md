@@ -1,2 +1,5 @@
 # hello-world
-a repository for hello-worlds
+
+Hello World! 
+
+Just getting started with GitHub, having some morning coffee.
